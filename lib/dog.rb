@@ -5,7 +5,4 @@ def bark
 end
 end 
 
-def bark
-  puts "sit"
-end
-end 
+
