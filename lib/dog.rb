@@ -5,3 +5,5 @@ def bark
 end
 end 
 
+class Dog 
+  def 
